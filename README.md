@@ -11,11 +11,11 @@ Where all my HNG Internship tasks go
 Coding is fun, y'all!
 
 ## Demo 2
-Eat. Sleep. Code.
-Eat. Sleep. Code.
-Eat. Sleep. Code.
-Eat. Sleep. Code.
-Eat. Sleep. Code.
+* Eat. Sleep. Code.
+* Eat. Sleep. Code.
+* Eat. Sleep. Code.
+* Eat. Sleep. Code.
+* Eat. Sleep. Code.
 
 ## Demo 3
 God bless America... and The HNG Internship. <3
