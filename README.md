@@ -18,7 +18,7 @@ Coding is fun, y'all!
 * Eat. Sleep. Code.
 
 ## Demo 3
-God bless America... and The HNG Internship. <3
+God bless Nigeria... and The HNG Internship. <3
 
 ### References
 I. https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md
